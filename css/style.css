@@ -1,0 +1,30 @@
+
+body{
+  background: linear-gradient(-45deg,yellowgreen,white);
+  background-size: cover;
+  height: 100vh;
+}
+/* Nav-start */
+
+.button-btn{
+  border: none;
+  background-color: rgba(128, 128, 128, 0.329);
+  outline: none;
+  color: white;
+  padding: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  text-transform: capitalize;
+  border-radius: 4px;
+}
+
+.button-btn:hover{
+  background-color: grey;
+  color: black;
+}
+.fontsize{
+font-size: 20px;
+font-weight: 500;
+}
+
+/* Nav-end */
